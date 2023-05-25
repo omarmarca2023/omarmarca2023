@@ -25,6 +25,12 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
  </div><br/>
+ 
+ ### Data Analytics:
+- [Portfólio](https://bit.ly/portfolio_data_analytics)<br/>
+
+ ### Data Science:
+- [Predição de Churn em empresas provedoras de serviços de Internet]()<br/>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
