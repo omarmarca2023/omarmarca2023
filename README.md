@@ -30,6 +30,6 @@
 - [Portfólio](https://bit.ly/portfolio_data_analytics)<br/>
 
  ### Data Science:
-- [Predição de Churn em empresas provedoras de serviços de Internet]()<br/>
+- [Predição de Churn em empresas provedoras de serviços de Internet](https://medium.com/@omarca2015c/predição-de-churn-em-empresas-provedoras-de-serviços-de-internet-7489e6df3033)<br/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1111113&height=100&section=footer"/>
