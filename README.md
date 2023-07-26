@@ -34,4 +34,6 @@
 
 - [Previsão de Tarifas em Corridas de Táxi](https://medium.com/@omarca2015c/previsão-de-tarifas-em-corridas-de-táxi-911506cc1117)<br/>
 
+- [Sistema de recomendação de filmes](https://github.com/omarmarca2023/sistema_recomendacao_filmes.git)<br/>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1111113&height=100&section=footer"/>
