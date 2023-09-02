@@ -36,6 +36,6 @@
 
 - [Sistema de recomendação de filmes](https://github.com/omarmarca2023/sistema_recomendacao_filmes.git)<br/>
 
-- [House Price Prediction for Clustering]()
+- [House Price Prediction for Clustering](https://github.com/omarmarca2023/Houses_Clustering.git)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1111113&height=100&section=footer"/>
