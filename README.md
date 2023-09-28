@@ -30,7 +30,7 @@
 - [Portfólio](https://bit.ly/portfolio_data_analytics)<br/>
 
  ### Data Science:
-- [Predição de Churn em empresas provedoras de serviços de Internet](https://medium.com/@omarca2015c/predição-de-churn-em-empresas-provedoras-de-serviços-de-internet-7489e6df3033)<br/>
+- [Predição de Churn em empresas provedoras de serviços de Internet](https://github.com/omarmarca2023/churn_previsao.git)<br/>
 
 - [Previsão de Tarifas em Corridas de Táxi](https://medium.com/@omarca2015c/previsão-de-tarifas-em-corridas-de-táxi-911506cc1117)<br/>
 
