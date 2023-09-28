@@ -32,7 +32,7 @@
  ### Data Science:
 - [Predição de Churn em empresas provedoras de serviços de Internet](https://github.com/omarmarca2023/churn_previsao.git)<br/>
 
-- [Previsão de Tarifas em Corridas de Táxi](https://medium.com/@omarca2015c/previsão-de-tarifas-em-corridas-de-táxi-911506cc1117)<br/>
+- [Previsão de Tarifas em Corridas de Táxi](https://github.com/omarmarca2023/Previsao_tarifas_taxi.git)<br/>
 
 - [Sistema de recomendação de filmes](https://github.com/omarmarca2023/sistema_recomendacao_filmes.git)<br/>
 
