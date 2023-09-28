@@ -38,6 +38,6 @@
 
 - [House Price Prediction for Clustering](https://github.com/omarmarca2023/Houses_Clustering.git)
 
-- [Previsão de Tarifas em Corridas de Táxi com Keras](https://medium.com/@omarca2015c/previsão-de-tarifas-em-corridas-de-táxi-com-keras-e6cfe80d3be9)
+- [Previsão de Tarifas em Corridas de Táxi com Keras](https://github.com/omarmarca2023/Previsao-de-Tarifas-em-Corridas-de-Taxi-com-Keras.git)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1111113&height=100&section=footer"/>
