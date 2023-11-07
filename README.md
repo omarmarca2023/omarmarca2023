@@ -39,5 +39,7 @@
 - [House Price Prediction for Clustering](https://github.com/omarmarca2023/Houses_Clustering.git)
 
 - [Previsão de Tarifas em Corridas de Táxi com Keras](https://github.com/omarmarca2023/Previsao-de-Tarifas-em-Corridas-de-Taxi-com-Keras.git)
+  
+- [Previsão de preço de ações usando LSTM](https://github.com/omarmarca2023/MGLU3_LSTM.git)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1111113&height=100&section=footer"/>
