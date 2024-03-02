@@ -44,4 +44,6 @@
 
 - [Previsão de Tarifas em Corridas de Táxi com PySpark](https://github.com/omarmarca2023/Pyspark_taxi.git)
 
+- [Credit Card Fraud with PySpark](https://github.com/omarmarca2023/Credit-Card-Fraud-with-PySpark..git)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1111113&height=100&section=footer"/>
