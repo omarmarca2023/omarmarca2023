@@ -46,4 +46,6 @@
 
 - [Credit Card Fraud with PySpark](https://github.com/omarmarca2023/Credit-Card-Fraud-with-PySpark..git)
 
+- [As ações mais baratas da B3 pela Fórmula de Benjamin Graham](https://github.com/omarmarca2023/Formula-Benjamin-Graham.git)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1111113&height=100&section=footer"/>
